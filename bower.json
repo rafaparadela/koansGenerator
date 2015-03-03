@@ -1,0 +1,10 @@
+{
+  "name": "koansgenerator",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "modernizr": "~2.8.2",
+    "jquery.cookie": "~1.4.1",
+    "marked": "~0.3.2"
+  }
+}
